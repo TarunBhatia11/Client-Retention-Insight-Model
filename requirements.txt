@@ -1,10 +1,8 @@
-datetime
 keras
 matplotlib
 numpy
 pandas
-pickle
 scipy
 seaborn
-sklearn
+scikit-learn
 tensorflow
