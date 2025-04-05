@@ -88,12 +88,6 @@ Customer retention is crucial for the sustainable growth of any business. This p
 
 ---
 
-## 📷 Screenshots
-
-> *(Optional: You can upload screenshots of your deployed app and add them here)*
-
----
-
 ## 💡 Future Improvements
 
 - Add more advanced model comparison (XGBoost, LightGBM)
